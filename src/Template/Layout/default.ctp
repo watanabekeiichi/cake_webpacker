@@ -28,7 +28,6 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 
     <?= $this->fetch('meta') ?>
     
-    <!-- ルートドメイン:3000/bundle.js を追記　 -->
     <!-- <script src='http://localhost:3000/bundle.js'></script> -->
 </head>
 <body>
